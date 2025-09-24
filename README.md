@@ -48,7 +48,7 @@ Getting Started
 # Installation
 
 1. Clone the repository
-   git clone https://github.com/your_username/swarm-ocr-receipt.git
+   git clone https://github.com/recipt-ocr-app/recipt-ocr-app.git
    cd swarm-ocr-receipt
 
 2. Create virtual environment (optional)
