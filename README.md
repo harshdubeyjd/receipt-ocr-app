@@ -129,7 +129,7 @@ Contributions are very welcome! Please see CONTRIBUTING.md for guidelines and op
 
 License
 
-Distributed under the MIT License. See LICENSE for details.
+
 
  
 
@@ -142,5 +142,5 @@ Acknowledgements
 
  
 
-For detailed documentation, see the docs/ folder or open issues for help or suggestions.
+
 
